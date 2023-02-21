@@ -1,3 +1,3 @@
 # Image-Fusion-Project
 
-Code will be uploaded soon
+Output will be updated soon
